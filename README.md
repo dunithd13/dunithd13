@@ -86,31 +86,7 @@ My interests lie at the intersection of **Machine Learning, Deep Learning, Compu
 - VS Code
 - PyCharm
 
----
 
-## 🌟 Featured Projects
-
-❤️ Cardion
-> AI-powered 10-Year Heart Disease Risk Prediction System
-
-🩺 SkinCNN
-> Deep Learning Skin Disease Classification using SE-ResNet
-
-🏥 People's Health Care
-> Intelligent Medical Center Management Platform integrating AI-powered diagnosis
-
-🏎 VisionF1
-> Machine Learning based Formula 1 Race Prediction System
-
-🦈 Marine AI *(Coming Soon)*
-> AI solutions for marine biodiversity and conservation
-
----
----
-
-
-
----
 
 ## 📫 Connect with Me
 
