@@ -16,8 +16,6 @@ My interests lie at the intersection of **Machine Learning, Deep Learning, Compu
 
 📈 CGPA: **3.77**
 
-📚 Springer Conference Publication (2026)
-
 🧠 Always learning something new in AI.
 
 ---
@@ -28,7 +26,7 @@ My interests lie at the intersection of **Machine Learning, Deep Learning, Compu
 
 📖 Accepted at the **11th International Congress on Information and Communication Technology (ICICT 2026)**
 
-📚 To be published by **Springer Nature**
+📚 published by **Springer Nature** - https://link.springer.com/chapter/10.1007/978-3-032-34132-7_37
 
 ---
 
