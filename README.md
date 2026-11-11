@@ -1,6 +1,6 @@
 # Hi there, I'm Dunith Desitha Ranawansha 👋
 
-### AI & Machine Learning Undergraduate | Researcher | Builder
+### AI Undergraduate at SLIIT | Research | Tennis
 
 I'm an IT undergraduate specializing in **Artificial Intelligence** at **Sri Lanka Institute of Information Technology (SLIIT)** with a passion for developing intelligent systems that solve real-world problems.
 
